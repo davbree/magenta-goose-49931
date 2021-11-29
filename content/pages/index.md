@@ -68,7 +68,7 @@ sections:
         icon: arrowRight
     styles:
       self:
-        height: screen
+        height: auto
         width: full
         margin:
           - mt-20
