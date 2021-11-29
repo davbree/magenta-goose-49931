@@ -93,7 +93,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     media:
-      url: /images/smarter.svg
+      url: /images/apple.svg
       altText: Where did everyone go?
       caption: Team meeting
       elementId: ''
