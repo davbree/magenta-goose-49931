@@ -74,7 +74,7 @@ sections:
           - mt-20
           - mb-20
           - ml-0
-          - mr-20
+          - mr-0
         padding:
           - pt-28
           - pb-28
