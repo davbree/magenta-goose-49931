@@ -64,7 +64,7 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-1.jpeg'
+        url: /images/hero-4.jpg
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
