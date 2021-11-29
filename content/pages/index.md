@@ -134,7 +134,7 @@ sections:
         caption: ZCOOL
     spacing: 3
     columns: 7
-    aspectRatio: 'auto'
+    aspectRatio: auto
     showCaption: false
     enableHover: false
     styles:
@@ -162,7 +162,7 @@ sections:
     type: MediaGallerySection
   - colors: colors-h
     elementId: ''
-    title: Remote doesn’t mean alone. Here are so great features
+    title: 'Remote doesn’t mean alone. Here are so great features:'
     subtitle: >-
       These are all excellent features that will provide exactly the things
       you’re looking for.
